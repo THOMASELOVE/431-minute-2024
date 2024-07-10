@@ -7,6 +7,8 @@ During the semester, Professor Love will set a series of "minute papers" which a
 - Professor Love reserves the right to change the number of minute papers depending on how the class is going during the semester.
 - The links below will go live as they become available, usually the day before the minute paper is due.
 
+<div align="center">
+  
 After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Feedback
 :----------: | :------: | :---------------------: | :--------------------------:
 3 (09-03) | 2024-09-04 | *link to come* | *link to come*
@@ -19,6 +21,8 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 21 (11-12) | 2024-11-13 | *link to come* | *link to come*
 23 (11-19) | 2024-11-19 | *link to come* | *link to come*
 25 (12-03) | 2024-12-04 | *link to come* | *link to come*
+
+</div>
 
 - You'll need to be logged into Google via CWRU to complete the Minute Papers, or to review the feedback.
 
