@@ -15,7 +15,6 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 9 (09-24) | 2024-09-25 | *link to come* | *link to come*
 11 (10-01) | 2024-10-02 | *link to come* | *link to come*
 13 (10-08) | 2024-10-09 | *link to come* | *link to come*
-15 (10-15) | 2024-10-16 | *link to come* | *link to come*
 18 (10-29) | 2024-10-30 | *link to come* | *link to come*
 21 (11-12) | 2024-11-13 | *link to come* | *link to come*
 23 (11-19) | 2024-11-19 | *link to come* | *link to come*
