@@ -4,11 +4,22 @@ During the semester, Professor Love will set a series of "minute papers" which a
 
 - You **should** complete the Minute Paper even if you weren't able to attend the most recent class.
 - Only Professor Love sees the results of the Minute Papers with identifying information. He then summarizes findings without identifying people and addresses those as part of the README discussion in the Thursday class whenever possible.
-- Professor Love reserves the right to change the number of minute papers depending on how the class is going during the semester. 
+- Professor Love reserves the right to change the number of minute papers depending on how the class is going during the semester.
+- The links below will go live as they become available, usually the day before the minute paper is due.
 
 After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Feedback
 -----------: | :------: | :---------------------: | :--------------------------:
-3 (09-03) | 2024-09-04 | bit.ly/431-min-03 | bit.ly/431-min-03-feedback
+3 (09-03) | 2024-09-04 | *link to come* | *link to come*
+5 (09-10) | 2024-09-11 | 
+7 (09-17) | 2024-09-18 |
+9 (09-24) | 2024-09-25 | 
+11 (10-01) | 2024-10-02 | 
+13 (10-08) | 2024-10-09 |
+15 (10-15) | 2024-10-16 | 
+18 (10-29) | 2024-10-30 |
+21 (11-12) | 2024-11-13 | 
+23 (11-19) | 2024-11-19 |
+25 (12-03) | 2024-12-04 |
 
 - You'll need to be logged into Google via CWRU to complete the Minute Papers, or to review the feedback.
 
