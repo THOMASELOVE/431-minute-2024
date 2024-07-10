@@ -8,7 +8,7 @@ During the semester, Professor Love will set a series of "minute papers" which a
 - The links below will go live as they become available, usually the day before the minute paper is due.
 
 After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Feedback
------------: | :------: | :---------------------: | :--------------------------:
+:----------: | :------: | :---------------------: | :--------------------------:
 3 (09-03) | 2024-09-04 | *link to come* | *link to come*
 5 (09-10) | 2024-09-11 | 
 7 (09-17) | 2024-09-18 |
