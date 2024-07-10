@@ -25,16 +25,7 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 
 ## Deadlines and Late Work
 
-- All Minute Paper deadlines are in the [Course Calendar](https://thomaselove.github.io/431-2023/calendar.html).
-- Minute Papers that are 1-24 hours late (up to noon Thursday) will receive at most 60% credit.
-- We will stop accepting minute papers 24 hours after the deadline.
+- All Minute Paper deadlines are in the [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html).
+- We will stop accepting minute papers 48 hours after the deadline (Friday at noon).
 
-
-## Welcome to 431 Survey
-
-All of you have completed the [Welcome to 431 Survey](https://bit.ly/431-2023-welcome-survey). Thank you.
-
-- You must log into Google via your CWRU account to access the survey.
-- The survey should take 15-20 minutes to complete, and we encourage you to do so now.
-
-The main website for the Fall 2023 version of the 431 course is found at https://thomaselove.github.io/431-2023
+The main website for the Fall 2024 version of the 431 course is found at <https://thomaselove.github.io/431-2024>.
