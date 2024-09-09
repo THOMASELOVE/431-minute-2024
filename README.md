@@ -12,7 +12,7 @@ During the semester, Professor Love will set a series of "minute papers" which a
 After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Feedback
 :----------: | :------: | :---------------------: | :--------------------------:
 3 (09-03) | 2024-09-04 | <https://bit.ly/431-2024-minute-03> | <https://bit.ly/431-2024-min-03-feedback>
-5 (09-10) | 2024-09-11 | *link to come* | *link to come*
+5 (09-10) | 2024-09-11 | <https://bit.ly/431-2024-minute-05> | *link to come*
 7 (09-17) | 2024-09-18 | *link to come* | *link to come*
 11 (10-01) | 2024-10-02 | *link to come* | *link to come*
 13 (10-08) | 2024-10-09 | *link to come* | *link to come*
