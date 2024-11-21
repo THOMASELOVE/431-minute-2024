@@ -18,7 +18,7 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 13 (10-08) | 2024-10-09 | <https://bit.ly/431-2024-minute-13> | <https://bit.ly/431-2024-min-13-feedback>
 18 (10-29) | 2024-10-30 | <https://bit.ly/431-2024-minute-18> | <https://bit.ly/431-2024-min-18-feedback>
 21 (11-12) | 2024-11-13 | <https://bit.ly/431-2024-minute-21> | <https://bit.ly/431-2024-min-21-feedback>
-23 (11-19) | 2024-11-19 | <https://bit.ly/431-2024-minute-23> | *link to come*
+23 (11-19) | 2024-11-19 | <https://bit.ly/431-2024-minute-23> | <https://bit.ly/431-2024-min-23-feedback>
 
 </div>
 
